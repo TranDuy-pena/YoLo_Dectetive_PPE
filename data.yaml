@@ -1,0 +1,14 @@
+train: D:\AnToanCongTrinh\train
+val: D:\AnToanCongTrinh\valid
+nc: 10
+names:
+  - Hardhat
+  - Mask
+  - No-Hardhat
+  - No-Mask
+  - No-Safety Vest
+  - Person
+  - Safety Cone
+  - Safety Vest
+  - Machinery
+  - Vehicle
